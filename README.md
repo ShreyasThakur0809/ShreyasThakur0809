@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Vibe<br>👯 I’m looking to collaborate on Web3 Projects and Protocols
 
 
