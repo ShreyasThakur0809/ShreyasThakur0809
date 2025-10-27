@@ -1,4 +1,4 @@
-# I am CS Engineer, contributing in ths web3 tech ecosystem.
+# CS Engineer, contributing in the web3 tech ecosystem.
 I’m currently working on Vibe<br> I’m looking to collaborate on Web3 Projects and Protocols
 
 
