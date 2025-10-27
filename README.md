@@ -1,5 +1,5 @@
-# About Me: I am CSE Engineer, who likes web3 tech and I am contributing in the ecosystem
-🔭 I’m currently working on Vibe<br>👯 I’m looking to collaborate on Web3 Projects and Protocols
+# About Me: I am CS Engineer, contributing in ths web3 tech ecosystem.
+ I’m currently working on Vibe<br>👯 I’m looking to collaborate on Web3 Projects and Protocols
 
 
 ## 🌐 Socials:
