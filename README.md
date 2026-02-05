@@ -1,4 +1,4 @@
-# Engineer crafting infrastructure, tooling, and user experiences for the Web3 ecosystem.
+# Web3 Engineer crafting infrastructure, tooling, and user experiences for the Web3 ecosystem.
 I’m currently working in Tychee Labs <br>
 
 
