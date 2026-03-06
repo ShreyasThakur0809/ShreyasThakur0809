@@ -1,4 +1,4 @@
-# Computer Engineer crafting infra, tooling, and user experiences for the Web3 ecosystem.
+# Computer Engineer building infra, tooling, and user experiences for the Web3 ecosystem.
 I’m currently working at Brownrice Capital and in Tychee Labs <br>
 
 
