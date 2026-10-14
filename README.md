@@ -1,5 +1,5 @@
 # Computer Engineer building infra, tooling, and user experiences for the Web3 ecosystem.
-I’m currently working at Brownrice Capital and in Stellar Proof <br>
+I’m currently working at Brownrice Capital and shipping Web3 Products<br>
 
 
 ## Socials:
